@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_card_alot_rs" value="name:card_id;datatype:int,name:bal_amount;datatype:real,name:doi;datatype:datetime,name:validity;datatype:date,name:reg_id;datatype:int" />
+</info>

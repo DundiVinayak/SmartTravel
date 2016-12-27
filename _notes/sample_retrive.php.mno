@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sample_rs" value="name:id;datatype:int,name:name;datatype:string,name:gender;datatype:string,name:city;datatype:string,name:time;datatype:timestamp" />
+</info>

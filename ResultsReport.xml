@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes" ?>
+
+<mm_report>
+	<mm_reportname>	ResultsReport.xml</mm_reportname>
+	<mm_reportdate>06/23/15 05:48:57</mm_reportdate>
+	<mm_reportlocation>C:\\xampp\htdocs\SmartTravel\</mm_reportlocation>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[search_card.php]]></mm_displaystr>
+		<mm_file>C:\xampp\htdocs\SmartTravel\search_card.php</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[there is no attribute "placeholder" [XHTML 1.0 Transitional]]]></mm_description>
+		<mm_reportedby></mm_reportedby>
+	</mm_reportitem>
+</mm_report>

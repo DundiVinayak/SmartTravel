@@ -1,0 +1,1 @@
+SELECT * FROM `passenger` p ,`card1` c WHERE p.reg_id = c.reg_id ;

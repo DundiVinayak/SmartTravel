@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_registration_rs" value="name:reg_id;datatype:int,name:first_name;datatype:string,name:last_name;datatype:string,name:father_name;datatype:string,name:gender;datatype:string,name:dob;datatype:date,name:address;datatype:blob,name:city;datatype:string,name:pincode;datatype:int,name:email_id;datatype:string,name:phone_number;datatype:real,name:aadhar_number;datatype:real,name:photo;datatype:blob,name:reg_time;datatype:timestamp" />
+</info>
